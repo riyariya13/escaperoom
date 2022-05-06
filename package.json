@@ -1,0 +1,19 @@
+{
+  "name": "escaperoom",
+  "version": "1.0.0",
+  "description": "Escape from the room :) ",
+  "main": "index.js",
+  "scripts": {
+    "test": "unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riyariya13/escaperoom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riyariya13/escaperoom/issues"
+  },
+  "homepage": "https://github.com/riyariya13/escaperoom#readme"
+}
